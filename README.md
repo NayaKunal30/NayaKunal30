@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kunal Nayak</h1>
-<h3 align="center">A passionate MERN STACK developer from India</h3>
+<h1 align="center">Hi 👋, I'm Kunal </h1>
+<h3 align="center">I'm a passionate MERN STACK developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayakunal30&label=Profile%20views&color=0e75b6&style=flat" alt="nayakunal30" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayakunal30" alt="nayakunal30" /></a> </p>
 
-- 🔭 I’m currently working on [Tech Chalk](https://tech-chalk.vercel.app/)
+- 🔭 I’m currently working on [PredictMED]([https://tech-chalk.vercel.app/](https://nayakunal30.github.io/PredictMED/))
 
 - 🌱 I’m currently learning **React,Nodejs,MongoDB,Blockchain technology**
 

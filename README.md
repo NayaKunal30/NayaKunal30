@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayakunal30&label=Profile%20views&color=0e75b6&style=flat" alt="nayakunal30" /> </p>
 
 
-- 🔭 I’m currently working on [PredictMED]([https://tech-chalk.vercel.app/](https://nayakunal30.github.io/PredictMED/))
+- 🔭 I’m currently working on [MedPulseAI]([[https://tech-chalk.vercel.app/](https://medpulseai-ml.onrender.com/)])
 
-- 🌱 I’m currently learning **React,Nodejs,MongoDB,Blockchain technology**
+- 🌱 I’m currently learning **React,Nodejs,MongoDB,Nextjs,Javascript,Machine learning technology**
 
-- 👨‍💻 All of my projects are available at [[https://nayakunal30.github.io/My-Portfolio/](https://my-portfolio-kunal-nayak.vercel.app/)]([https://nayakunal30.github.io/My-Portfolio/](https://my-portfolio-kunal-nayak.vercel.app/))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-kunal-nayak.vercel.app/)]([https://nayakunal30.github.io/My-Portfolio/](https://my-portfolio-kunal-nayak.vercel.app/))
 
 - 📫 How to reach me **kunalnayak3004@gmail.com**
 

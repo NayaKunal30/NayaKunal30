@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal </h1>
-<h3 align="center">I'm a passionate MERN STACK developer</h3>
+<h3 align="center">I'm a passionate MERN STACK & Machine Learning developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayakunal30&label=Profile%20views&color=0e75b6&style=flat" alt="nayakunal30" /> </p>
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs,MongoDB,Nextjs,Javascript,Machine learning technology**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-kunal-nayak.vercel.app/)]([https://nayakunal30.github.io/My-Portfolio/](https://my-portfolio-kunal-nayak.vercel.app/))
+- 👨‍💻 All of my projects are available at [/My Portfolio](https://my-portfolio-kunal-nayak.vercel.app/)]
 
 - 📫 How to reach me **kunalnayak3004@gmail.com**
 
@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayakunal30&show_icons=true&locale=en&layout=compact" alt="nayakunal30" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayakunal30&show_icons=true&locale=en" alt="nayakunal30" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayakunal30&" alt="nayakunal30" /></p>

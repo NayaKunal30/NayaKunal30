@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **React,Nodejs,MongoDB,Nextjs,Javascript,Machine learning technology**
 
-- 👨‍💻 All of my projects are available at [[/My Portfolio](https://my-portfolio-kunal-nayak.vercel.app/)]
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-kunal-nayak.vercel.app/)]
 
-- 📫 How to reach me **kunalnayak3004@gmail.com**
+- 📫 How to reach me **kunalnayak3004@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

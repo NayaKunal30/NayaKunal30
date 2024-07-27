@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs,MongoDB,Blockchain technology**
 
-- 👨‍💻 All of my projects are available at [https://nayakunal30.github.io/My-Portfolio/](https://nayakunal30.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [[https://nayakunal30.github.io/My-Portfolio/](https://my-portfolio-kunal-nayak.vercel.app/)]([https://nayakunal30.github.io/My-Portfolio/](https://my-portfolio-kunal-nayak.vercel.app/))
 
 - 📫 How to reach me **kunalnayak3004@gmail.com**
 

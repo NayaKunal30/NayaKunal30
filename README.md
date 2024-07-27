@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayakunal30&label=Profile%20views&color=0e75b6&style=flat" alt="nayakunal30" /> </p>
 
 
-- 🔭 I’m currently working on [[MedPulseAI]([[https://tech-chalk.vercel.app/](https://medpulseai-ml.onrender.com/)])
+- 🔭 I’m currently working on  [[MedPulseAI](https://medpulseai-ml.onrender.com/)]
 
 - 🌱 I’m currently learning **React,Nodejs,MongoDB,Nextjs,Javascript,Machine learning technology**
 

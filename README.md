@@ -1,6 +1,6 @@
 ![](https://mpolinowski.github.io/Personal/personal_assets/img/tools_banner.webp)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp" width="25px" height="25px" /> I'm Kunal Nayak </h1>
+<h1 align="center">Hi <img src="[https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp](https://raw.githubusercontent.com/PushpenderIndia/PushpenderIndia/master/media/giphy.webp)" width="25px" height="25px" /> I'm Kunal Nayak </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

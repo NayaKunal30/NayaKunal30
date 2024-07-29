@@ -15,8 +15,8 @@ I'm a `MERN STACK `, `Web`, `Frontend and Figma `, `Machine Learning` & `Softwar
 
 - 🏆 `1x Hackathon Winner` & `20+ Hackathons Participated so far` : [Certificates]()
 - 📫 How to reach me: kunalnayak3004@gmail.com 
-- 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kunal-nayak-74b189301/)
 - 🌐 Visit My Portfolio : [My Portfolio](https://my-portfolio-kunal-nayak.vercel.app/)
+- 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kunal-nayak-74b189301/)
 - 🔭 I’m currently working on [MedPulseAI](https://medpulseai-ml.onrender.com/)
 
 - <p align="left">

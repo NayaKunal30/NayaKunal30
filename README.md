@@ -1,4 +1,4 @@
-![](https://mpolinowski.github.io/Personal/personal_assets/img/tools_banner.webp)
+![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif)
 
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="25px" height="25px" /> I'm Kunal Nayak </h1>
 

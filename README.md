@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAmanKadam-16%2FAmanKadam-16&psig=AOvVaw03WLjSp05ycWYsP0Cgo0G7&ust=1722497794973000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjz_eq64tCHAxW3X2wGHb12AwQQjRx6BAgAEBQ)
+![](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/30/16/9e/30169e4a670daf12443df7d2dd140176.gif" width="25px" height="25px" /> I'm Kunal Nayak </h1>
 

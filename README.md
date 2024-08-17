@@ -11,7 +11,7 @@
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif"></p>
 
-I'm a `MERN STACK `, `Web`, `Frontend and Figma `, `Machine Learning` & `Software Developer`.
+I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` & `Software Developer`.
 
 - 🏆 `1x Hackathon Winner` & `3+ Hackathons Participated so far`
 - 📫 How to reach me: kunalnayak3004@gmail.com 

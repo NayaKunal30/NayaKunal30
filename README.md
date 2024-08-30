@@ -30,9 +30,7 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h3 align="left" style="font-size: 24px; color: #00d6d6; margin-bottom: 10px;">
-    Connect with me: 🌟
-</h3>
+## 🌐 Connect with me: 🌟
 
 <p align="center" style="display: flex; gap: 15px; align-items: center;">
     <a href="https://instagram.com/kri_shu_18" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">

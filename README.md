@@ -31,7 +31,7 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
     Connect with me: 🌟
 </h3>
 
-<p align="left" style="display: flex; gap: 15px; align-items: center;">
+<p align="center" style="display: flex; gap: 15px; align-items: center;">
     <a href="https://instagram.com/kri_shu_18" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(255, 105, 180, 0.8));" />
         <span style="font-size: 20px; margin-left: 5px;"></span>
@@ -58,7 +58,7 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
     </a>
 </p>
 
-- List of Technologies Which I'am Learning and learnt so far :)
+## 🌟 List of Technologies I'm Learning and Have Learned So Far 🚀
 
 | Category        | Skills        |
 |-----------------|---------------|

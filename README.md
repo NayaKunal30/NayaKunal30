@@ -60,6 +60,12 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
         <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
 </p>
+## 🏆 GitHub Achievements 🌟
+
+Here are some of my GitHub achievements:
+
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark Default" width="50"/>
+<img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" alt="Quick Draw Default Light" width="50"/>
 
 ## 🌟 List of Technologies I'm Learning and Have Learned So Far 🚀
 

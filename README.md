@@ -52,6 +52,10 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
         <img align="center" src="https://img.icons8.com/ios-filled/50/ff0000/youtube-play.png" alt="YouTube" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(255, 0, 0, 0.8));" />
         <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
+  <a href="https://my-portfolio-kunal-nayak-nayakunal30s-projects.vercel.app/" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
+        <img align="center" src="https://img.icons8.com/ios-filled/50/008080/resume.png" alt="Portfolio" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 128, 128, 0.8));" />
+        <span style="font-size: 20px; margin-left: 5px;"></span>
+    </a>
 </p>
 
 - List of Technologies Which I'am Learning and learnt so far :)

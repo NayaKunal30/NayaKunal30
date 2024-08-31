@@ -21,6 +21,7 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
 - 🌐 Visit My Portfolio : [My Portfolio](https://my-portfolio-kunal-nayak.vercel.app/)
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kunal-nayak-74b189301/)
 - 🔭 I’m currently working on [MedPulseAI](https://medpulseai-ml.onrender.com/)
+- 🌳 Check out my Linktree: [Linktree](https://linktr.ee/NayaKunal30)
 
 - <p align="left">
   <strong style="color: #40E0D0;">Profile Views:</strong> 
@@ -57,6 +58,11 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
         <img align="center" src="https://img.icons8.com/ios-filled/50/008080/resume.png" alt="Portfolio" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 128, 128, 0.8));" />
         <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
+    <a href="https://linktr.ee/NayaKunal30" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/0077FF/linktree.png" alt="Linktree" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 119, 255, 0.8));" />
+    <span style="font-size: 20px; margin-left: 5px; color: #0077FF;">Linktree</span>
+</a>
+
 </p>
 
 ## 🏆 GitHub Achievements 🌟

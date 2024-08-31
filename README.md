@@ -59,7 +59,7 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
         <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
     <a href="https://linktr.ee/NayaKunal30" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/0077FF/linktree.png" alt="Linktree" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 119, 255, 0.8));" />
+    <img align="center" [Linktree Icon](https://img.icons8.com/ios-filled/50/0077FF/linktree.png) alt="Linktree" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 119, 255, 0.8));" />
     <span style="font-size: 20px; margin-left: 5px; color: #0077FF;">Linktree</span>
 </a>
 

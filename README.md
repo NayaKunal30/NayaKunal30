@@ -34,36 +34,30 @@ I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` 
 ## 🌐 Connect with me: 🌟
 
 <p align="center" style="display: flex; gap: 15px; align-items: center;">
-    <a href="https://instagram.com/kri_shu_18" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
+    <a href="https://instagram.com/kri_shu_18" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(255, 105, 180, 0.8));" />
-        <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
-    <a href="https://www.leetcode.com/kunalnayak3004" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
+    <a href="https://www.leetcode.com/kunalnayak3004" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 204, 255, 0.8));" />
-        <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/kunalnayj4zk" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
+    <a href="https://auth.geeksforgeeks.org/user/kunalnayj4zk" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 204, 0, 0.8));" />
-        <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
-    <a href="https://www.linkedin.com/in/kunal-nayak-74b189301/" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
+    <a href="https://www.linkedin.com/in/kunal-nayak-74b189301/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
         <img align="center" src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" alt="LinkedIn" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 119, 181, 0.8));" />
-        <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
-    <a href="https://www.youtube.com/@NAYAK3005" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
+    <a href="https://www.youtube.com/@NAYAK3005" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
         <img align="center" src="https://img.icons8.com/ios-filled/50/ff0000/youtube-play.png" alt="YouTube" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(255, 0, 0, 0.8));" />
-        <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
-  <a href="https://my-portfolio-kunal-nayak-nayakunal30s-projects.vercel.app/" target="blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
+    <a href="https://my-portfolio-kunal-nayak-nayakunal30s-projects.vercel.app/" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
         <img align="center" src="https://img.icons8.com/ios-filled/50/008080/resume.png" alt="Portfolio" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 128, 128, 0.8));" />
-        <span style="font-size: 20px; margin-left: 5px;"></span>
     </a>
     <a href="https://linktr.ee/NayaKunal30" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; transition: transform 0.3s; position: relative;">
-    <img align="center" [Linktree Icon](https://img.icons8.com/ios-filled/50/0077FF/linktree.png) alt="Linktree" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 119, 255, 0.8));" />
-    <span style="font-size: 20px; margin-left: 5px; color: #0077FF;">Linktree</span>
-</a>
-
+        <img align="center" src="https://img.icons8.com/ios-filled/50/0077FF/linktree.png" alt="Linktree" height="40" width="40" style="filter: drop-shadow(0 0 8px rgba(0, 119, 255, 0.8));" />
+        <span style="font-size: 20px; margin-left: 5px; color: #0077FF;">Linktree</span>
+    </a>
 </p>
+
 
 ## 🏆 GitHub Achievements 🌟
 

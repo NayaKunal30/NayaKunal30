@@ -16,7 +16,7 @@
 
 I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` & `Software Developer`.
 
-- 🏆 `1x Hackathon Winner` & `3+ Hackathons Participated so far`
+- 🏆 `2x Hackathon Winner` & `3x Hackathons Participated so far`
 - 📫 How to reach me: kunalnayak3004@gmail.com 
 - 🌐 Visit My Portfolio : [My Portfolio](https://my-portfolio-kunal-nayak.vercel.app/)
 - 💻 Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kunal-nayak-74b189301/)

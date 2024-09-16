@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&center=true&vCenter=true&width=900&height=110&lines=MERN+STACK+DEVELOPER;FRONTEND+AND+UI+DEVELOPER;MACHINE+LEARNING+DEVELOPER;FIGMA+EXPERT&color=40E0D0&gradient=linear,40E0D0,00CED1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&center=true&vCenter=true&width=900&height=110&lines=MERN+STACK+DEVELOPER;FRONTEND+AND+UI+DEVELOPER;MACHINE+LEARNING+DEVELOPER;Kubernetes;FIGMA+EXPERT&color=40E0D0&gradient=linear,40E0D0,00CED1" alt="Typing SVG" />
   </a>
 </p>
 
 
 <p align="center"><img align="center" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif"></p>
 
-I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` & `Software Developer` `Kubernetes`.
+I'm a `MERN STACK `, `Machine Learning Developer`, `Frontend and Figma `, `WEB` , `Kubernetes` & `Software Developer` .
 
 - 🏆 `2x Hackathon Winner` & `3x Hackathons Participated so far`
 - 📫 How to reach me: kunalnayak3004@gmail.com 
